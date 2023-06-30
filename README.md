@@ -31,8 +31,11 @@ Scénario :
    - l'outil renvoie les résultats
 
 Exécution du scénario : 
+![image](https://github.com/Pachelie/OSINT---LinkedIn-Scrapping/assets/47741870/a2d7abf8-8e15-4a94-9f3e-a6ebf37c3ca8)
 
 Résultats des recherches : 
+![image](https://github.com/Pachelie/OSINT---LinkedIn-Scrapping/assets/47741870/a6d5a989-fce8-43c8-bf36-67c6c49abdb9)
+
 
 Conclusion 
 Plusieurs améliorations peuvent être faits sur cet outil : 
